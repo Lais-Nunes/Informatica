@@ -2,4 +2,4 @@
 ## primeira tarefa: Apresentação
   Atividade de informática utilizando o software: Canva
 
-  ![Praia](https://github.com/user-attachments/assets/7247fc08-f118-4dda-98c3-33e9aa3d1a62)
+![Praia](https://github.com/user-attachments/assets/658a64cf-2232-4f5b-aaf4-33da4c18431a)
