@@ -9,9 +9,10 @@
 
 Construção de um dashboard que mostra a Média de alunos por municípios filtrando os 15 primeiros municípios; Quantidade de alunos por escola e o KPI que mostra a média de alunos por país.
 
+
 ![image](https://github.com/user-attachments/assets/7c80abad-04f7-4bcf-9ae8-bfa46303dfc6)
 
 
-
+https://app.powerbi.com/links/s1fI2GIT26?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 
 
